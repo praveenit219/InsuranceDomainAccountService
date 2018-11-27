@@ -24,7 +24,7 @@
 			<providers>
 				<pattern>
 					{
-					"serviceName": "InsuranceDomainAccountService"
+					"serviceName": "insurancedomainaccountservice"
 					}
 				</pattern>
 			</providers>
