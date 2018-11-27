@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.pheonix.AccountService</groupId>
-	<artifactId>InsuranceDomainAccountService</artifactId>
+	<artifactId>pheonix-insurancedomainaccountservice</artifactId>
 	<version>${version.number}</version>
 	<packaging>jar</packaging>
 
